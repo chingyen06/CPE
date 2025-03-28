@@ -10,7 +10,7 @@
 
 ## 題目
 ### 一顆星
-# | 必考 | 題號 | 平台 | 題目 | 詳解 | 解答 | 
+| # | 必考 | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 1  | ✔    | 100   | ZeroJudge  | c039. 00100 – The 3n + 1 problem  | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeGlu2EA)     |
 | 2  | ✔    | 118   | ZeroJudge  | c082. 00118 – Mutant Flatworld Explorers | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Skou1K34A)     |
