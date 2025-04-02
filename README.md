@@ -19,9 +19,9 @@
 ### 一星選集
 | # | 必考 | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|
-| 1  | ✔    | 100   | ZeroJudge  | c039. 00100 – The 3n + 1 problem  | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeGlu2EA)     |
-| 2  | ✔    | 118   | ZeroJudge  | c082. 00118 – Mutant Flatworld Explorers | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Skou1K34A)     |
-| 3  | ✔    | 272   | ZeroJudge  | c007. 00272 – TeX Quotes           | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/r1g6MaaVA)     |
+| 1  | ✔    | 100   | ZeroJudge  | c039. 00100 – The 3n + 1 problem  | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeGlu2EA)     | [github page](/100)
+| 2  | ✔    | 118   | ZeroJudge  | c082. 00118 – Mutant Flatworld Explorers | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Skou1K34A)     | [github page](/118)
+| 3  | ✔    | 272   | ZeroJudge  | c007. 00272 – TeX Quotes           | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/r1g6MaaVA)     | [github page](/272)
 | 4  | ✔    | 299   | ZeroJudge  | e561. 00299 – Train Swapping        | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Bk0I7R640)     |
 | 5  | ✔    | 490   | ZeroJudge  | c045. 00490 – Rotating Sentences    | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ByEVPRa40)     |
 | 6  | ✔    | 948   | ZeroJudge  | a134. 00948 – Fibonaccimal Base     | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/HkcA8QJSA)     |
