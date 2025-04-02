@@ -66,7 +66,7 @@
 | 45 | ✔    | 11332 | ZeroJudge  | c813. 11332 – Summing Digits        |                        |
 | 46 | ✔    | 11349 | ZeroJudge  | e513. 11349 – Symmetric Matrix      |                        |
 | 47 | ✔    | 11417 | ZeroJudge  | d255. 11417 – GCD                 |                        |
-| 48 | ✔    | 11461 | ZeroJudge  | d186. 11461 – Square Numbers       |                        |
+| 48 | ✔    | 11461 | ZeroJudge  | d186. 11461 – Square Numbers       |                        | [github page](/11461)
 | 49 | ✔    | 12019 | ZeroJudge  | f709: 12019 – Doom’s Day Algorithm | |
 
 ### 二星選集
