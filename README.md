@@ -66,13 +66,13 @@
 | 45 | ✔    | 11332 | ZeroJudge  | c813. 11332 – Summing Digits        |                        |
 | 46 | ✔    | 11349 | ZeroJudge  | e513. 11349 – Symmetric Matrix      |                        |
 | 47 | ✔    | 11417 | ZeroJudge  | d255. 11417 – GCD                 |                        |
-| 48 | ✔    | 11461 | ZeroJudge  | d186. 11461 – Square Numbers       |                        | [github page](/11461)
+| 48 | ✔    | 11461 | ZeroJudge  | d186. 11461 – Square Numbers       | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/S1jA17hpye) | [github page](/11461)
 | 49 | ✔    | 12019 | ZeroJudge  | f709: 12019 – Doom’s Day Algorithm | |
 
 ### 二星選集
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|
-| 1 | 10327 | ZeroJudge | a539. 10327 - Flip Sort | | [github page](/10327)
+| 1 | 10327 | ZeroJudge | a539. 10327 - Flip Sort | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SJx38m2pkl) | [github page](/10327)
 
 ### 三星選集
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
