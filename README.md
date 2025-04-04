@@ -73,7 +73,7 @@
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|
 | 1 | 10327 | ZeroJudge | a539. 10327 - Flip Sort | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SJx38m2pkl) | [github page](/10327)
-| 2 | 10815 | OnlineJudge | 10815 - Andy's First Dictionary |  | 
+| 2 | 10815 | OnlineJudge | 10815 - Andy's First Dictionary | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/S1jgOdTpJx) | [github page](/10815)
 
 ### 三星選集
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
