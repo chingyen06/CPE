@@ -91,4 +91,4 @@
 ### 未知選集
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|
-| 1 | 12442 | ZeroJudge | a523. 12442 - Forwarding Emails |  | [github page](/12442)
+| 1 | 12442 | ZeroJudge | a523. 12442 - Forwarding Emails | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ByA9bNMyxe) | [github page](/12442)
