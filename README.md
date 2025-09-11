@@ -13,7 +13,8 @@
 * ### [二星選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E4%BA%8C%E6%98%9F%E9%81%B8%E9%9B%86-1)  
 * ### [三星選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E4%B8%89%E6%98%9F%E9%81%B8%E9%9B%86-1)  
 * ### [四星選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E5%9B%9B%E6%98%9F%E9%81%B8%E9%9B%86-1)  
-* ### [五星選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E4%BA%94%E6%98%9F%E9%81%B8%E9%9B%86-1)  
+* ### [五星選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E4%BA%94%E6%98%9F%E9%81%B8%E9%9B%86-1)
+* ### [未知選集](https://github.com/chingyen06/CPE/blob/main/README.md#%E6%9C%AA%E7%9F%A5%E9%81%B8%E9%9B%86-1)
 
 ## 題目
 ### 一星選集
@@ -92,3 +93,4 @@
 | # | 題號 | 平台 | 題目 | 詳解 | 解答 | 
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|
 | 1 | 12442 | ZeroJudge | a523. 12442 - Forwarding Emails | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ByA9bNMyxe) | [github page](/12442)
+| 2 | 543 | ZeroJudge | c050. 00453 - Goldbach's Conjecture | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ryozHSlixx) | [github page](/12442)
