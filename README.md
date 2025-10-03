@@ -94,3 +94,5 @@
 |:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|
 | 1 | 12442 | ZeroJudge | a523. 12442 - Forwarding Emails | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ByA9bNMyxe) | [github page](/12442)
 | 2 | 543 | ZeroJudge | c050. 00453 - Goldbach's Conjecture | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/ryozHSlixx) | [github page](/12442)
+| 3 | 483 | OnlineJudge | 483 - Word Scramble | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SypmmLThee
+) | [github page](/483)
